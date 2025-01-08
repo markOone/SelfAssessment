@@ -4,58 +4,58 @@
   - Model
   - Modeling
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm
-  - Programm
-  - Programming paradigm
-  - Programming language
+  - Algorithm u
+  - Syntax k u
+  - Semantics k
+  - Abstraction 
+  - Paradigm u
+  - Programm k
+  - Programming paradigm u
+  - Programming language u
   - Contract
   - Module
-  - Library
-  - Package
-  - Component
-  - Framework
+  - Library u
+  - Package u
+  - Component u
+  - Framework u
   - Platform
-  - Source code
+  - Source code u
   - Object code
-  - Machine code
+  - Machine code k
   - Microcode
-  - Software engineering
+  - Software engineering h
   - Decomposition
   - Control flow
   - Data flow
-  - Code reuse
+  - Code reuse u
   - Defensive programming
-  - Don't repeat yourself (DRY)
+  - Don't repeat yourself (DRY) u
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
   - Scalar
-  - Literal
-  - Expression
+  - Literal u
+  - Expression k
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
+  - Method u
+  - Class u
+  - Prototype u
+  - Event u
+  - Type u
   - Flag
   - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
+  - Code bloc k 
+  - Conditions u
+  - Loops u
+  - Assignment u
+  - Regular expression u
+  - Interface u
+  - Namespaces u
   - Call stack
   - Naming conventions
   - Coding conventions
@@ -66,7 +66,7 @@
   - Return early
   - Fail-fast
 - Types
-  - Primitive types
+  - Primitive types u
   - Reference types
   - Type systems
   - Strong typing
@@ -76,25 +76,25 @@
   - Dynamic typing
   - Nominal typing
   - Structural typing
-  - Explicit typing
+  - Explicit typing u
   - Type inference
   - Covariance
   - Contravariance
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function h
+  - Lambda expression u
   - Side effects
   - Closure
   - Partial application
   - Currying
-  - Higher order
-  - Recursion
+  - Higher order k
+  - Recursion k
   - Tail call optimisation
-  - Callback
-  - Listener
+  - Callback u
+  - Listener u
   - Composition
   - Pipe
   - Memoize
@@ -103,18 +103,18 @@
   - Monad
   - Monoid
   - Generator
-  - Coroutine
+  - Coroutine u
 - Data structures
-  - Array
-  - Structure
+  - Array u
+  - Structure u
   - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
+  - Enum u
+  - Instance u
+  - Object u
+  - Collection u
+  - Set u
   - Hash table
-  - Linked list
+  - Linked list h
   - Doubly list
   - Unrolled list
   - Circular list
@@ -126,23 +126,23 @@
   - Iterator
   - Mutable state
   - Immutable state
-  - Serialization
+  - Serialization u
   - String parsing
   - JSON
   - JSON5
   - YAML
 - Networking
-  - DNS
+  - DNS h
   - CDN
   - CORS
-  - IPv4
-  - IPv6
+  - IPv4 h
+  - IPv6 h
   - NAT
-  - URL
+  - URL h
   - URN
   - URI
 - Process and tools
-  - Compiler
+  - Compiler k
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
@@ -152,21 +152,21 @@
   - Linker
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime h
+  - Virtual machine h
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger h
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
+  - Garbage collection k
+  - Refactoring u
+  - Code review k
   - Exception
   - Unittesting
-  - git
-  - Github
-  - Docker
+  - git h
+  - Github u
+  - Docker h
   - Kubernetes
   - GCC
   - LLVM
@@ -181,7 +181,7 @@
   - Spaghetti
   - Silver bullet
   - Not invented here
-  - Dead code
+  - Dead code h
   - Unreachable code
   - Duplicate code
   - Premature optimization
@@ -193,7 +193,7 @@
   - Too many parameters
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case u
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -202,7 +202,7 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
+  - Bytecode h
   - V8
   - VJM
   - CLR
@@ -222,7 +222,7 @@
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
+  - ASCII h
   - Escape sequence
   - RFC
   - IETF
@@ -234,6 +234,6 @@
   - ISO
   - MIME
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG
