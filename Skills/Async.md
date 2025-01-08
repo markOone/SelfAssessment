@@ -1,6 +1,6 @@
 ## Asynchronous programming
 
-- Theory
+- Theory k
   - Event loop
   - `try..catch`
   - Non-blocking

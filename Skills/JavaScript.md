@@ -1,6 +1,6 @@
 ## JavaScript
 
-- Language
+- Language k
   - `Object`
   - `Function`
   - `Boolean`

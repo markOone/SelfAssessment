@@ -1,6 +1,6 @@
 ## Node.js and backend
 
-- Internals and concepts
+- Internals and concepts h
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code

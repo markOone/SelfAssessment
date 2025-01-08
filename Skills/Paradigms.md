@@ -1,6 +1,6 @@
 ## Multi-paradigm programming
 
-- Theory
+- Theory h
   - Procedural programming
   - Imperative programming
   - Structured programming
