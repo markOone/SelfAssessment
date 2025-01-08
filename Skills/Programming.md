@@ -1,6 +1,6 @@
 ## Programming fundamental concepts
 
-- Concepts h
+- Concepts 
   - Model
   - Modeling
   - Subject domain

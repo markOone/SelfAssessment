@@ -1,6 +1,6 @@
 ## Databases
 
-- Theory and concepts h
+- Theory and concepts
   - Data types
   - Performance tuning
   - Migrations

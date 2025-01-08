@@ -1,6 +1,6 @@
 ## Architecture
 
-- Application structure h
+- Application structure
   - Modularity
   - Components
   - Directories
